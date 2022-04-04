@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1629289916 source:c:\users\jnani kumar\onedrive\desktop\c++\structfile\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1630494130 source:c:\users\jnani kumar\onedrive\desktop\all docs\c++\structfile\main.cpp
+	<ctime>
+	<iostream>
+	<string>
+	<random>
+	<cmath>
+	<iostream>
+	<vector>
+	<algorithm>
+
